@@ -66,6 +66,10 @@ java -jar clientG7/target/Client.jar
 🎥 Demonstration
 
 
+https://github.com/w0ram/rmiMachineSalle/assets/55700217/ace68317-05fc-4518-9659-806b6f46aa91
+
+
+
 🔥 Contribution
 Contributions are welcome! Please feel free to open a pull request or submit an issue for any features or bug fixes.
 
